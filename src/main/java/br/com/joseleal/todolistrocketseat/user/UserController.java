@@ -1,4 +1,4 @@
-package br.com.joseleal.todolist.user;
+package br.com.joseleal.todolistrocketseat.user;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

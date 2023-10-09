@@ -1,4 +1,4 @@
-package br.com.joseleal.todolist.user;
+package br.com.joseleal.todolistrocketseat.user;
 
 public class UserModel {
     public String username;
